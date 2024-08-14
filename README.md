@@ -21,5 +21,6 @@ The **Simple Vending Machine** is a Java-based console application that simulate
 - **Error Handling:**
   - The program handles common errors such as invalid product selection, insufficient funds, and out-of-stock items.
 
-## Contributors
+## Authors
+* [Chua, Genelle M.](genelle_chua@dlsu.edu.ph)
 * [Tobias, Angela V.](angela_tobias@dlsu.edu.ph)
